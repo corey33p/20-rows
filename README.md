@@ -10,6 +10,6 @@ The 20-rows app (the name of which is a slight misnomer) is intended to help wit
 This was developed in Windows on python 3.6, and probably will not run on Linux due to use of the win32gui module to resize the command line window. This can be commented out or adapted.
 
 Required modules: 
-PIL - pip install pillow
-numpy - pip install numpy
+PIL - pip install pillow;
+numpy - pip install numpy;
 win32gui - pip install pypiwin32
